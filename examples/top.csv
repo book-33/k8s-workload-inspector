@@ -1,0 +1,6 @@
+namespace,pod,cpu_used_m,memory_used_mib
+search,query-service-7b8d5d,420,860
+recommend,recall-engine-5c7f2a,760,1850
+live,stream-gateway-2a1c9e,350,430
+ads,bid-worker-9f2d1c,660,980
+ecommerce,order-risk-6b3e1a,140,220

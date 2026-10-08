@@ -1,0 +1,6 @@
+namespace,pod,cpu_request_m,memory_request_mib,cpu_limit_m,memory_limit_mib,restarts,status
+search,query-service-7b8d5d,500,1024,1000,2048,0,Running
+recommend,recall-engine-5c7f2a,800,2048,1600,4096,1,Running
+live,stream-gateway-2a1c9e,300,512,0,0,4,Running
+ads,bid-worker-9f2d1c,600,1024,1200,2048,2,Running
+ecommerce,order-risk-6b3e1a,0,0,0,0,0,Running
